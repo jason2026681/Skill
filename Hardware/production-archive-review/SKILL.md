@@ -1,6 +1,6 @@
 ---
 name: production-archive-review
-version: 1.0.0
+version: 1.0.1
 description: 生产资料归档合规性评审技能。对硬件产品/单板的生产归档文件（整机BOM、单板PCB Gerber、单板BOM、规格书等）做初次归档评审与变更评审，输出问题清单表（Excel）。当用户提交一套生产资料要求"归档评审/合规检查/资料齐套性检查/变更评审/ECO评审"时使用本技能。
 agent_created: true
 ---
