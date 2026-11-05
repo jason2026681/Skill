@@ -1,0 +1,16 @@
+# Python 虚拟环境
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# 编辑器
+.vscode/
+.idea/
+
+# 暂不纳入
+To do/
